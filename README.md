@@ -1,7 +1,5 @@
 #### Apresentação
 
-- Salve, salve galera, beleza, bem vindo a mais um video do canal
-- Nesse video iremos implantar um serviço de WebAPI ASP.NET Core no Raspberry Pi
 - Nosso objetivo e automatizar o acesso aos GPIOS através de conectividade
 - Nesse exemplo iremos criar um endpoint que chamaremos a partir do nosso navegador.
 - Nos próximos videos iremos brincar com os pinos GPIO e também usar nossa IA para realizar comandos inteligentes
