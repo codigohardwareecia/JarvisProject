@@ -2,8 +2,8 @@
 <!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\principal\Downloads\JarvisProject\JarvisWizard\bin\Release\net8.0\publish\</_PublishTargetUrl>
-    <History>True|2026-03-24T00:49:28.7794966Z||;</History>
+    <_PublishTargetUrl>C:\Users\principal\Desktop\JarvisProject\JarvisWizard\JarvisWizard\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2026-03-28T22:31:38.1826244Z||;True|2026-03-23T21:49:28.7794966-03:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
